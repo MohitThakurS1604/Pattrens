@@ -1,3 +1,9 @@
+/*
+
+Pattren to print half pyramid in 1-01-101 order
+
+*/
+
 #include <stdio.h>
 
 int main()
