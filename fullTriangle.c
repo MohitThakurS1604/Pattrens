@@ -1,4 +1,11 @@
-#include<stdio.h>
+/*
+
+ Full pyramid pattren 
+ 
+ */
+ 
+ 
+ #include<stdio.h>
 int main(){
  int num;
 
