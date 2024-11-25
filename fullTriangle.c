@@ -1,6 +1,6 @@
 /*
 
- Full pyramid pattren 
+ Full pyramid pattren  ( input by user )
  
  */
  
