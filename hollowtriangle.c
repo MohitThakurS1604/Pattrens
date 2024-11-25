@@ -1,3 +1,10 @@
+/*
+
+ Porgram to print hollow triangle in 0,1,2,3 order ( input by user) 
+ 
+ */
+
+
 #include <stdio.h>
 
 int main()
