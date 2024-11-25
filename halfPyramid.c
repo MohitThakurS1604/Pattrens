@@ -1,6 +1,6 @@
 /*
 
-A simple half pyramid pattren
+A simple half pyramid pattren ( input by user )
 
 */
 
