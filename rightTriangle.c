@@ -1,4 +1,10 @@
-#include <stdio.h>
+/*
+
+It will print star  ( Right sided pyramid )
+
+*/
+    
+    #include <stdio.h>
 
 int main()
 {
