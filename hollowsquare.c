@@ -1,4 +1,10 @@
-// c program for printing hollow sphere 
+/*
+
+ Program to print hollow square ( input by user)
+ 
+ */
+
+
 #include<stdio.h>
    int main()
    {
