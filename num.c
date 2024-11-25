@@ -1,3 +1,9 @@
+/*
+
+It will print a half pyramid in 0 then 01 then 012 order ( input by user )
+
+*/
+
 #include<stdio.h>
    int main()
    {
