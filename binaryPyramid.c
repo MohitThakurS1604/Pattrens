@@ -1,6 +1,6 @@
 /*
 
-Pattren to print half pyramid in 1-01-101 order
+Pattren to print half pyramid in 1-01-101 order ( input by user )
 
 */
 
