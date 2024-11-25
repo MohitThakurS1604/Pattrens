@@ -1,6 +1,6 @@
 /*
 
-Floyd Triangle 
+Floyd Triangle ( input by user )
 
 */
 
