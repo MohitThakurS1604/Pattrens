@@ -1,6 +1,7 @@
  /*
  
-  Program to print Hollow square in 0000 in column and 0123 in rows ( input by user )
+  Program to print Hollow square in 0000 in column and 0123 in rows
+  ( input by user )
   
   */
 
