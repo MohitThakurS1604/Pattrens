@@ -1,4 +1,11 @@
-#include<stdio.h>
+/*
+
+Pattren to print square using number in 00-11 order ( input by user )
+
+*/
+    
+    
+    #include<stdio.h>
     int main(){
         int n;
         printf("Enter the Number : ");
