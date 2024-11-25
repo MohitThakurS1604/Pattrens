@@ -1,3 +1,10 @@
+/*
+
+A simple half pyramid pattren
+
+*/
+
+
 #include<stdio.h>
     int main(){
         int n;
