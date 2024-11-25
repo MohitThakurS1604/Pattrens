@@ -1,4 +1,11 @@
-#include<stdio.h>
+/*
+
+Diamond pattren 
+
+*/
+      
+      
+      #include<stdio.h>
       int main(){
 
         int num;
