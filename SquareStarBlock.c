@@ -1,6 +1,6 @@
 /*
 
-Star pattren to print square
+Star pattren to print square ( input by user )
 
 */
 
