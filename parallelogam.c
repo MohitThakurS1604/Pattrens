@@ -1,3 +1,10 @@
+/*
+
+ Program to print parallelogram star pattren ( input by user )
+ 
+ */
+
+
 #include <stdio.h>
 
 int main() {
