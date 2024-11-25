@@ -1,6 +1,6 @@
 /*
 
-It will print star  ( Right sided pyramid )
+It will print star  { Right sided pyramid  ( input by user)}
 
 */
     
