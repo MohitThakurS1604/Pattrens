@@ -1,3 +1,10 @@
+/*
+
+Hollow square pattren using star only ()input by user 
+
+*/
+
+
 #include<stdio.h>
     int main(){
         int n;
