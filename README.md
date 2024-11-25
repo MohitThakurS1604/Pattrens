@@ -1,0 +1,11 @@
+# Pattren Problems
+- Triangle number pattren problem
+- Triangle number
+- Right Triangle
+- Parallelogram
+- Hollow Triangle
+- Hollow square
+- Hollow square with number
+- Hollow square with star
+- Half Pyramid
+- Full 
