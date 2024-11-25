@@ -1,6 +1,6 @@
 /*
 
-Hollow square pattren using star only ()input by user 
+Hollow square pattren using star only ( input by user )
 
 */
 
