@@ -1,3 +1,10 @@
+/*
+
+Star pattren to print square
+
+*/
+
+
 #include<stdio.h>
     int main(){
         int n;
