@@ -1,6 +1,6 @@
 /*
 
-It will print a half pyramid in 0 then 11 then 222 order
+It will print a half pyramid in 0 then 11 then 222 order ( input by user )
 
 */
 
