@@ -8,4 +8,9 @@
 - Hollow square with number
 - Hollow square with star
 - Half Pyramid
-- Full 
+- Full Pyramid
+- Flyod Triangle
+- Diamond Pattren
+- Binary pyramid ( Pyramid using numbers )
+- Square Star Block ( Square pattren using star )
+- Square Block ( Uisng number )
