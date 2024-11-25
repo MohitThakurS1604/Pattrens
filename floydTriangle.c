@@ -1,3 +1,10 @@
+/*
+
+Floyd Triangle 
+
+*/
+
+
 #include <stdio.h>
 
 int main() {
