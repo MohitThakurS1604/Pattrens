@@ -1,6 +1,6 @@
 /*
 
-Diamond pattren 
+Diamond pattren ( input by user )
 
 */
       
